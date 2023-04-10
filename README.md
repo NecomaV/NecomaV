@@ -57,10 +57,10 @@
  
  
  ### Tools & Platforms:
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
  
   ### Hoisting
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -89,6 +89,8 @@
 
 ![Temirlans's GitHub stats](https://github-readme-stats.vercel.app/api?username=necomav&show_icons=true&title_color=39d353&text_color=fefefe&icon_color=1e6eea&border_color=39d353&bg_color=0d1117)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=necomav&theme=github-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=necomav&theme=blue-green)
+
 
 <!-- ===========================================       Graph       ========================================================= -->
 
