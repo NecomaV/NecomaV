@@ -32,7 +32,7 @@
    ### 📗 Currently Reading :
  
    - Design patterns 
-   - The Clean Coder 
+   - The Robert C. Martin Clean Code 
   
       <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=sultansse.visitor-badge" alt="visitor badge">
 
