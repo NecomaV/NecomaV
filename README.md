@@ -136,5 +136,4 @@
 
 <!-- ===========================================       Snake       ========================================================= -->
 
-<p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="700" /> </p>
 <h3 align="center">Thank you so much for coming here :pray:</h3>
